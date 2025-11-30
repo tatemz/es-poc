@@ -1,0 +1,16 @@
+{
+  "name": "@tatemz/es-poc",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "effect": "3.19.8"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "5.9.3"
+  }
+}
